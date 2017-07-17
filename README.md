@@ -1,0 +1,2 @@
+# DebriefMe
+This will be a web application for communications between a flight instructor and his students. During the end of a flight lesson, the instructor usually leaves the student with a debrief of the lesson, however most of the time a student will forget the previous lesson and what was discussed. This tool will allow a log of all flight debriefs to be archived and accessed by each individual student! Stay tuned for the alpha release! 
